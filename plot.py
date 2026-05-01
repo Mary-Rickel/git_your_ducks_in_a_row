@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-img1 = mpimg.imread('folder/image1.png')
-img2 = mpimg.imread('folder/image2.png')
-img3 = mpimg.imread('folder/image3.png')
-img4 = mpimg.imread('folder/image4.png')
+img1 = mpimg.imread('image1.png')
+img2 = mpimg.imread('image2.png')
+img3 = mpimg.imread('image3.png')
+img4 = mpimg.imread('image4.png')
 fig,ax= plt.subplots(1,4)
 ax[0].imshow(img1)
 ax[1].imshow(img2)
