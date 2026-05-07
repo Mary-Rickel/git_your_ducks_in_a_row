@@ -12,5 +12,6 @@ ax[0].imshow(img1)
 ax[1].imshow(image2)
 ax[2].imshow(im3)
 ax[3].imshow(img4)
+
 plt.axis('off') 
 plt.show()
