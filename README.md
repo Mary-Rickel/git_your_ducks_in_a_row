@@ -90,3 +90,5 @@ For questions or issues, please refer to the project's GitHub issues or contact 
 ---
 
 **Note:** This is an educational project focused on demonstrating scientific computing concepts using duck imagery. Have fun getting your ducks in a row! 🦆
+
+🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
