@@ -87,6 +87,10 @@ Please check the repository for license information.
 
 For questions or issues, please refer to the project's GitHub issues or contact the maintainers.
 
+## 🦆 Top Duck
+
+To see Top Duck, please see [TopDuck.md](topduck.md)
+
 ---
 
 **Note:** This is an educational project focused on demonstrating scientific computing concepts using duck imagery. Have fun getting your ducks in a row! 🦆
