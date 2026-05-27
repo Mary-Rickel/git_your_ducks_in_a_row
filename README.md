@@ -1,6 +1,10 @@
 
 # ducks-in-a-row
 Code repository for PDP 2026 team 12 activity
+## 
+This is a repository for the sole purpose of keeping your ducks in a row.
+Pleased refer to the attached images to see an example of this 
+
 ## Proper repository maintenance 
 * Commits should be well commented
 * Commits need to pass unit tests before merging
